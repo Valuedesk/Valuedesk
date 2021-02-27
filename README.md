@@ -3,7 +3,7 @@
 We are Valuedesk and as a team we enable industrial companies to make cost optimization a sustainable and plannable core process.
 
 - 💻 TypeScript, JavaScript, Node, React, Ansible, ...
-- ⚙ Have a look at out full [Stack](https://stackshare.io/valuedesk/valuedesk).
+- ⚙ Have a look at our full [Stack](https://stackshare.io/valuedesk/valuedesk).
 - 📫 How to reach us: [Valuedesk.de](https://www.valuedesk.de/)
 
 ## 👀 We are hiring in Germany 👩‍💻 👨‍💻
